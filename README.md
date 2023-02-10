@@ -9,7 +9,9 @@ Tus tareas consisten en:
 !(C:\Users\Alba\Pictures\Saved Pictures\Foto Perfil UJA.jpeg)
 
 * **Correo**: amaf0001@red.ujaen.es
-* **GitHub**: https://github.com/vrivas/
+* **GitHub**: https://github.com/amaf0001
+!(C:\Users\Alba\Documents\Curso3\2\Desarrollo Agil\Practicas\Practica1\capturaGitHub.jpg)
+
 * **Tablero Trello**: https://trello.com/invite/b/pLHPc2iZ/ATTI7dc4b660a2abfc5b137dff4d6d3e43df1FC324C8/practica1
 
 ##### Captura de pantalla del tablero al inicio
