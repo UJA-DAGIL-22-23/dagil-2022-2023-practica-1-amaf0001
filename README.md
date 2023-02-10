@@ -17,3 +17,6 @@ Tus tareas consisten en:
 ##### Captura de pantalla del tablero al inicio
 !(C:\Users\Alba\Documents\Curso3\2\Desarrollo Agil\Practicas\Practica1\tableroInicio.jpg)
 !(C:\Users\Alba\Documents\Curso3\2\Desarrollo Agil\Practicas\Practica1\tableroInicio_2.jpg)
+
+##### Captura de pantalla del tablero al final
+!(C:\Users\Alba\Documents\Curso3\2\Desarrollo Agil\Practicas\Practica1\tableroFinal.jpg)
