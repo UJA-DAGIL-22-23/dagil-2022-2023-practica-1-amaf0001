@@ -6,7 +6,7 @@ Tus tareas consisten en:
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
 ### Alba María Álvarez Fernández
-<img src="Foto Perfil UJA.jpeg">
+<img src="fotoPerfilUJA.jpg">
 
 * **Correo**: amaf0001@red.ujaen.es
 * **GitHub**: https://github.com/amaf0001
